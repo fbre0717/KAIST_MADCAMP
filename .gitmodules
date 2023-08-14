@@ -1,0 +1,9 @@
+[submodule "ThreeTaps"]
+	path = ThreeTaps
+	url = https://github.com/ihchaeryu/ThreeTaps
+[submodule "weektwo_front"]
+	path = weektwo_front
+	url = https://github.com/fbre0717/weektwo_front
+[submodule "flowlog"]
+	path = flowlog
+	url = https://github.com/flowcamp3/flowlog
