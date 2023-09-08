@@ -10,12 +10,12 @@ React Native, NodeJS, MongoDB
 <br>
 카카오 로그인, 일기 작성, 친구
 
-## 3주차 : [flowlog](https://github.com/flowcamp3/flowlog/tree/3f480f224c7f2dc0cb75e1fe8586c2845c40c2b8)
+## 3주차 : [Flowlog](https://github.com/flowcamp3/flowlog/tree/3f480f224c7f2dc0cb75e1fe8586c2845c40c2b8)
 React Next, MongoDB Atlas
 <br>
 카카오 로그인, 개인 블로그 및 방명록, 친구, AWS S3
 
-## 4주차 : [server](https://github.com/dkanrjsk2/server)
+## 4주차 : [Healing](https://github.com/dkanrjsk2/server)
 React, NodeJS, MySQL
 <br>
 회원가입, 게시판
